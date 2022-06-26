@@ -2,13 +2,13 @@ export default function PastProjectsLayout(){
     return(
         <div class = "min-h-screen flex items-center justify-center">
         <div class = "font-poppins">
-            <div class="text-center text-3xl bg-[#F0F8FF] pt-48 pb-14">
+            <div class="text-center text-3xl bg-[#ebecf0] pt-48 pb-14">
                 Here's what we've worked on in the past
             </div>
 
             <table class="table-fixed justify-items-center pr-32">
                 <tbody>
-                    <tr class="bg-[#CAE9F5]">
+                    <tr class="">
                             <td class="w-2/5 pr-14 pl-28 text-center">
                                 <img src="insert_photo.jpg" width="220"></img>
                             </td>
@@ -22,7 +22,7 @@ export default function PastProjectsLayout(){
                             </td>
                     </tr>
 
-                    <tr class="bg-[#AFDCEB]">
+                    <tr class="bg-[#ebecf0]">
                             <td class="w-2/5 pr-14 pl-28 text-center">
                                 <img src="insert_photo.jpg" width="220"></img>
                             </td>
@@ -36,7 +36,7 @@ export default function PastProjectsLayout(){
                             </td>
                     </tr>
 
-                    <tr class="bg-[#CAE9F5]">
+                    <tr class="">
                             <td class="w-2/5 pr-14 pl-28 text-center">
                                 <img src="insert_photo.jpg" width="220"></img>
                             </td>
@@ -50,7 +50,7 @@ export default function PastProjectsLayout(){
                             </td>
                     </tr>
 
-                    <tr class="bg-[#AFDCEB]">
+                    <tr class="bg-[#ebecf0]">
                             <td class="w-2/5 pr-14 pl-28 text-center">
                                 <img src="insert_photo.jpg" width="220"></img>
                             </td>
